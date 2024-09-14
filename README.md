@@ -77,4 +77,4 @@ hobbies: ["Gaming", "Cinema", "Comedy"]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-![Snake animation](https://github.com/khanaldamodar//khanaldamodar/blob/output/github-contribution-grid-snake.svg)
+
